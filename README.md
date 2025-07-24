@@ -30,14 +30,14 @@ Before running this application, make sure you have:
 ## 🛠️ Installation
 
 Clone the repository:
-bash
+
 ```
 git clone https://github.com/KanchanP333/digital-clock-pyqt5.git
 cd digital-clock-pyqt5
 ```
 
 Install PyQt5:
-bash
+
 ```
 pip install PyQt5
 ```
