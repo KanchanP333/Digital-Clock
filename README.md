@@ -27,25 +27,27 @@ Before running this application, make sure you have:
 - PyQt5 library installed
 - The Oldtimer.ttf font file in the same directory as the script
 
-## 🛠️ Installation
+# 🛠️ How to Run
+Download the digital-clock.py file from this repository.
 
-Clone the repository:
-
-```
-git clone https://github.com/KanchanP333/digital-clock-pyqt5.git
-cd digital-clock-pyqt5
-```
-
-Install PyQt5:
-
+Install PyQt5 if it's not already installed:
 ```
 pip install PyQt5
 ```
 
-Ensure you have the font file:
-Make sure Oldtimer.ttf is in the same directory as your Python script. If you don't have this font, you can:
+Open a terminal in the folder where you saved the file.
 
-Download it from a font repository
-Replace it with any other .ttf font file of your choice
-Comment out the custom font code to use the system default
+Run the clock using:
+```
+python digital-clock.py
+```
+
+Ensure you have the font file:
+Make sure Oldtimer.ttf is in the same directory as your Python script.
+
+If you don't have this font, you can:
+
+- Download it from a font repository
+- Replace it with any other .ttf font file of your choice
+- Comment out the custom font code to use the system default
 
